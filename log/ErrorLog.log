@@ -1,0 +1,32 @@
+19-Apr-2022 18:00:04 WARN - org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [\] did not match expected type [java.lang.String (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [\] did not match expected type [java.lang.String (n/a)]
+19-Apr-2022 18:00:35 WARN - org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [\] did not match expected type [java.lang.String (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [\] did not match expected type [java.lang.String (n/a)]
+19-Apr-2022 18:01:14 WARN - org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [\] did not match expected type [java.lang.String (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [\] did not match expected type [java.lang.String (n/a)]
+19-Apr-2022 18:02:19 INFO - Starting ReviewsApplication using Java 17.0.2 on USABOS208342L with PID 18412 (C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews\target\classes started by jeremy.vanderwall in C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews)
+19-Apr-2022 18:02:19 DEBUG - Running with Spring Boot v2.6.6, Spring v5.3.18
+19-Apr-2022 18:02:19 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Apr-2022 18:02:33 INFO - Started ReviewsApplication in 14.409 seconds (JVM running for 15.797)
+19-Apr-2022 18:02:45 WARN - org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [\] did not match expected type [java.lang.String (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [\] did not match expected type [java.lang.String (n/a)]
+19-Apr-2022 18:03:39 INFO - Starting ReviewsApplication using Java 17.0.2 on USABOS208342L with PID 11696 (C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews\target\classes started by jeremy.vanderwall in C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews)
+19-Apr-2022 18:03:39 DEBUG - Running with Spring Boot v2.6.6, Spring v5.3.18
+19-Apr-2022 18:03:39 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Apr-2022 18:03:53 INFO - Started ReviewsApplication in 14.485 seconds (JVM running for 15.755)
+19-Apr-2022 18:04:41 WARN - org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [\] did not match expected type [java.lang.String (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [\] did not match expected type [java.lang.String (n/a)]
+19-Apr-2022 18:09:17 WARN - org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [\] did not match expected type [java.lang.String (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [\] did not match expected type [java.lang.String (n/a)]
+19-Apr-2022 18:10:38 INFO - Starting ReviewsApplication using Java 17.0.2 on USABOS208342L with PID 4228 (C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews\target\classes started by jeremy.vanderwall in C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews)
+19-Apr-2022 18:10:38 DEBUG - Running with Spring Boot v2.6.6, Spring v5.3.18
+19-Apr-2022 18:10:38 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Apr-2022 18:10:53 INFO - Started ReviewsApplication in 16.05 seconds (JVM running for 17.455)
+19-Apr-2022 18:11:03 WARN - org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [\] did not match expected type [java.lang.String (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [\] did not match expected type [java.lang.String (n/a)]
+19-Apr-2022 18:12:46 INFO - Starting ReviewsApplication using Java 17.0.2 on USABOS208342L with PID 11016 (C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews\target\classes started by jeremy.vanderwall in C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews)
+19-Apr-2022 18:12:46 DEBUG - Running with Spring Boot v2.6.6, Spring v5.3.18
+19-Apr-2022 18:12:46 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Apr-2022 18:12:58 INFO - Started ReviewsApplication in 12.027 seconds (JVM running for 13.523)
+19-Apr-2022 18:13:21 WARN - org.springframework.dao.InvalidDataAccessApiUsageException: Parameter value [\] did not match expected type [java.lang.String (n/a)]; nested exception is java.lang.IllegalArgumentException: Parameter value [\] did not match expected type [java.lang.String (n/a)]
+19-Apr-2022 18:17:03 INFO - Starting ReviewsApplication using Java 17.0.2 on USABOS208342L with PID 1564 (C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews\target\classes started by jeremy.vanderwall in C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews)
+19-Apr-2022 18:17:03 DEBUG - Running with Spring Boot v2.6.6, Spring v5.3.18
+19-Apr-2022 18:17:03 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Apr-2022 18:17:13 INFO - Started ReviewsApplication in 10.761 seconds (JVM running for 12.243)
+19-Apr-2022 18:17:56 INFO - Starting ReviewsApplication using Java 17.0.2 on USABOS208342L with PID 17640 (C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews\target\classes started by jeremy.vanderwall in C:\Users\jeremy.vanderwall\Documents\March 2022 Batch\Java\Reviews)
+19-Apr-2022 18:17:56 DEBUG - Running with Spring Boot v2.6.6, Spring v5.3.18
+19-Apr-2022 18:17:56 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Apr-2022 18:18:05 INFO - Started ReviewsApplication in 9.561 seconds (JVM running for 10.985)
